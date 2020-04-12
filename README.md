@@ -1,3 +1,3 @@
-Clone this repo
-Run npm install
+Clone this repo /n
+Run npm install /n
 Run npm start
